@@ -1,0 +1,30 @@
+:root {
+    --primary: orange;
+    --secondary: lightgrey;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#navbar {
+    background-color: var(--primary);
+    color: var(--secondary);
+    font-size: 65px;
+}
+
+.card-body {
+    background-color: var(--secondary);
+    color: var(--primary);
+}
+
+.card-header {
+    background-color: var(--primary);
+    color: var(--secondary);
+}
+
+.container {
+    margin: 20px auto;
+    justify-content: center;
+    display: flex;
+}
