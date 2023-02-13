@@ -11,6 +11,8 @@
 
   ## Description 
   This is an application that you can use to generate employee information in a professional html document. If you want you can click [here](https://drive.google.com/file/d/19MSdnMuCewBGwAxDjue62IbXFJ2-Tf3O/view) to see how it works!
+  ![dreamteam](https://user-images.githubusercontent.com/117688172/218456031-845fc51a-73fc-484f-b346-d8ad3ccc20d7.jpg)
+
 
   ## Installation
   First you clone this repository. Then you can install your dependencies as well as jest to run your tests.
